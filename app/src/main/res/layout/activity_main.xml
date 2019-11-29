@@ -16,6 +16,7 @@
             android:id="@+id/su_filter_group"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
+            app:su_shadow_clickable="false"
             android:visibility="gone">
         <RelativeLayout
                 android:layout_width="match_parent"
