@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ZHSlideMenuStyle">
+        <!--右边隐藏的view的宽度-->
+        <attr name="su_shadow_width" format="integer" />
+        <attr name="su_shadow_color" format="color" />
+        <attr name="su_shadow_clickable" format="boolean" />
+    </declare-styleable>
+
+</resources>
