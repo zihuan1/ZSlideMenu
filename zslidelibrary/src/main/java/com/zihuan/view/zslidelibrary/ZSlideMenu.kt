@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.FrameLayout
 import android.widget.LinearLayout
-import com.zihuan.library.R
+import com.zihuan.view.zslidemenu.R
 
 class ZSlideMenu : LinearLayout {
 
